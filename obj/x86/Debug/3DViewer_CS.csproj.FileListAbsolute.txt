@@ -1,0 +1,8 @@
+E:\xqq\Visual C# .NET\MyProject\3DViewer_CS\3DViewer_CS\bin\Debug\3DViewer_CS.exe
+E:\xqq\Visual C# .NET\MyProject\3DViewer_CS\3DViewer_CS\bin\Debug\3DViewer_CS.pdb
+E:\xqq\Visual C# .NET\MyProject\3DViewer_CS\3DViewer_CS\obj\x86\Debug\_3DViewer_CS.Form1.resources
+E:\xqq\Visual C# .NET\MyProject\3DViewer_CS\3DViewer_CS\obj\x86\Debug\_3DViewer_CS.Properties.Resources.resources
+E:\xqq\Visual C# .NET\MyProject\3DViewer_CS\3DViewer_CS\obj\x86\Debug\3DViewer_CS.csproj.GenerateResource.Cache
+E:\xqq\Visual C# .NET\MyProject\3DViewer_CS\3DViewer_CS\obj\x86\Debug\3DViewer_CS.exe
+E:\xqq\Visual C# .NET\MyProject\3DViewer_CS\3DViewer_CS\obj\x86\Debug\3DViewer_CS.pdb
+E:\xqq\Visual C# .NET\MyProject\3DViewer_CS\3DViewer_CS\obj\x86\Debug\3DViewer_CS.csprojResolveAssemblyReference.cache
