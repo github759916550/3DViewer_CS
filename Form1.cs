@@ -38,6 +38,7 @@ namespace _3DViewer_CS
             {
                 label1.Text = "水平距离： " + dHorizontalDistance + "米";
             }
+            //测试
         }
 
         /// <summary>
